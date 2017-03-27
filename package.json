@@ -1,0 +1,22 @@
+{
+  "name": "leader",
+  "main": "./lib/leader",
+  "version": "0.0.0",
+  "description": "Better Leader Key",
+  "keywords": [
+  ],
+  "repository": "https://github.com/xream/atom-leader",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}
