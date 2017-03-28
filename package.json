@@ -1,7 +1,7 @@
 {
   "name": "leader",
   "main": "./lib/leader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Better Leader Key",
   "keywords": [],
   "repository": "https://github.com/xream/atom-leader",
