@@ -8,3 +8,7 @@
 ## 0.1.1
 
 * ViewRegistry API
+
+## 0.1.2
+
+* Update README
