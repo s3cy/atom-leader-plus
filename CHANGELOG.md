@@ -14,3 +14,6 @@
 - Fork and Customize
   - No more timeout. Remain in leader mode till next key.
   - Simple look.
+
+## 0.2.1
+- Update README
