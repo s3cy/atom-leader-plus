@@ -1,10 +1,10 @@
 {
-  "name": "leader",
+  "name": "leader-plus",
   "main": "./lib/leader",
-  "version": "0.1.2",
-  "description": "Better Leader Key",
+  "version": "0.2.0",
+  "description": "leader improved",
   "keywords": [],
-  "repository": "https://github.com/xream/atom-leader",
+  "repository": "https://github.com/s3cy/atom-leader-plus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
